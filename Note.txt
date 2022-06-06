@@ -1,0 +1,15 @@
+Deep Learning
+
+- LSTM
+- RNN
+- CNN
+
+Data processing
+
+Method 1: Tôn làm theo method1
+- bỏ đi những row chứa 0 (missing)
+Method 2:
+- tính trung bình giá trị của cột đó (ko tính hàng có giá trị 0). rồi điền ô missing = giá trị tb đó.
+
+Regression.
+Evaluation bằng MSE, 
